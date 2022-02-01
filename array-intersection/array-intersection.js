@@ -18,5 +18,4 @@ function doesContain(element, array, intersection){
         intersection.push(element)   
     }
 }
-    
 console.log("array1:",arr1,"\narray2:",arr2,"\nintersection:",intersect(arr1, arr2));
